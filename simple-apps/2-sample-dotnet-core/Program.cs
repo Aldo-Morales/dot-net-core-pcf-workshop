@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 
 namespace _2_sample_dotnet_core
-{
+{    
     public class Program
     {
         public static void Main(string[] args)
